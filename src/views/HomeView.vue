@@ -5,3 +5,7 @@ import CodeEditor from "@/components/CodeEditor.vue";
 <template>
   <CodeEditor />
 </template>
+
+<style>
+
+</style>
